@@ -1,0 +1,15 @@
+mean_GHG
+mean_Land
+mean_WatScar
+mean_Eut
+mean_Acidification
+mean_WaterUse
+mean_Biodiversity
+median_GHG
+median_Land
+median_WatScar
+median_Eut
+median_Acidification
+median_WaterUse
+median_Biodiversity
+median_price_sim
